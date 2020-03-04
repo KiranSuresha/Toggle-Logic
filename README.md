@@ -1,1 +1,1 @@
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-zbmmnh)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/toggle-logic)
