@@ -1,0 +1,6 @@
+<h1>Check for one true state in an array</h1>
+
+<li *ngFor="let el of array; let i = index">
+	<button (click)="setNumber(el, i)" [ngClass]="{'true': el.active, 'false': !el.active }">{{ el.id }}</button>
+	<span> {{ el.active}}</span>
+</li>
